@@ -1,0 +1,6 @@
+{
+  "appId": "com.ankiflow.mobile",
+  "appName": "AnkiFlow",
+  "webDir": "www",
+  "bundledWebRuntime": false
+}
